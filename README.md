@@ -1,5 +1,5 @@
 # wine-investment 🍷
-We analysed the prices of various wines to come up with a valide investment strategy.
+Analysis various wines to come up with a valide investment strategy.
 
 1️⃣ The exploratory analysis focussed on understanding the data.
 - The price was not normaly distributed
